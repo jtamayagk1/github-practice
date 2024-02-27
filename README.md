@@ -44,4 +44,10 @@ includes:
 git log
 
 Creating a _italic_ text *italic*
-Create a __bold__ text *bold*
+Create a __bold__ text **bold**
+
+**bold and _Italic_**
+_italic and **bold**_
+
+Use esvape char \ to actually see _ or *
+\_For \*\*Example\*\*\_

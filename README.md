@@ -89,3 +89,13 @@ Quote text
 Fill in the gaps with<br> html
 <h1>Hello World</h1>
 <p>markdown</p>
+
+Working with `code`
+```markdown
+var a = b
+```
+
+Task list
+- [x] task 1
+- [ ] task 2
+- [x] task 3

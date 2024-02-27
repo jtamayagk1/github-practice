@@ -76,3 +76,9 @@ unordered lists start with -
   - a.a
 - b
 - c
+
+Tables 
+header1 | header2
+--
+a1|a2
+b1|b2

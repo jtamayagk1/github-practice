@@ -68,7 +68,7 @@ Ordered lists start with 1.
 unordered lists start with - 
 
 1. Step 1
-  1. Step 1.1
+  - Step 1.1
 1. step 2
 1. step 3
 

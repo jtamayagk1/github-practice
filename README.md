@@ -80,5 +80,5 @@ unordered lists start with -
 Tables 
 Header1 | Header2
 -|-
-a1|a2
+a1|a2|a3
 b1|b2

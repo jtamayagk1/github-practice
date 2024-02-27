@@ -60,4 +60,4 @@ Use esvape char \ to actually see _ or *
 ###### h6
 
 Link to Images
-![Link an image.](/learn/azure-devops/shared/media/mara.png)
+![Link an image.](https://www.google.com/aclk?sa=l&ai=DChcSEwiek8f_ssqEAxWbSEcBHQh8CEgYABABGgJxdQ&ase=2&gclid=CjwKCAiAivGuBhBEEiwAWiFmYYrpDPIUarclDK46dWT41hgRqrndoLQXNvtbrUV9wUaAG_NKr1T3eRoCSdIQAvD_BwE&sig=AOD64_2KeX4GeF-KAdISO5cD32GvPIproA&ctype=5&nis=6&adurl&ved=2ahUKEwjuorr_ssqEAxUPrIkEHVhjCkEQvhd6BAgBEHs)

@@ -78,7 +78,7 @@ unordered lists start with -
 - c
 
 Tables 
-header1 | header2
---
+Header1 | Header2
+-|-
 a1|a2
 b1|b2

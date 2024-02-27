@@ -101,13 +101,21 @@ Task list
 - [x] task 3
 
 Slash commands
+
 /code 
+
 - insert a code block you pick the language
+
 /details
+
 - inserts a collapsable detail area you pick the title and content
+
 /saved-replies
+
 - inserts a saved reply
 
 /table
+
 /tasklist
+
 /template

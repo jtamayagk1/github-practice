@@ -58,3 +58,6 @@ Use esvape char \ to actually see _ or *
 #### h4
 ##### h5
 ###### h6
+
+Link to Images
+![Link an image.](/learn/azure-devops/shared/media/mara.png)

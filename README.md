@@ -42,3 +42,6 @@ includes:
 
 # See info about previous commits
 git log
+
+Creating a _italic_ text *italic*
+Create a __bold__ text *bold*

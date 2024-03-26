@@ -4,6 +4,8 @@ git --version
 git config --global user.name <username>
 git config --global user.email <email>
 
+### TEST TEST TEST
+
 # See config
 git config --list
 
